@@ -1,0 +1,28 @@
+a{
+    margin: 20px ;
+    color: rgba(0, 2, 97, 0.692);
+    font: 900 18px 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#background{
+
+    background: url("../Assets/fundo.png");
+
+}
+.boxwhite{
+    margin: 10px;
+    width: 900px;
+    background: white;
+}
+.text{
+    margin: 10px 20px 10px 15px;
+}
+.descrição{
+    
+    font: 200 25px "Arial"; ;
+    color: grey;
+   
+}
+#center{
+    
+    font: 200 10px 'Tahoma'; ;
+}
