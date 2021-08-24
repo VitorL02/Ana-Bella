@@ -2,27 +2,27 @@ a{
     margin: 20px ;
     color: rgba(0, 2, 97, 0.692);
     font: 900 18px 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    outline: none;
 }
-#background{
-
-    background: url("../Assets/fundo.png");
-
+body{
+    background: #d2d2c1 url("../Assets/fundo.png");
+}
+#principal{
+    width: 900px;
 }
 .boxwhite{
-    margin: 10px;
-    width: 900px;
-    background: white;
+
+background: white;
 }
 .text{
-    margin: 10px 20px 10px 15px;
+    margin: 10px ;
 }
 .descrição{
-    
     font: 200 25px "Arial"; ;
     color: grey;
    
 }
-#center{
+.rodape{
     
-    font: 200 10px 'Tahoma'; ;
+    font: 900 15px 'Tahoma'; ;
 }
