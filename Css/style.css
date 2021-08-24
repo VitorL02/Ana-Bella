@@ -1,8 +1,9 @@
 a{
-    margin: 20px ;
     color: rgba(0, 2, 97, 0.692);
-    font: 900 18px 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    outline: none;
+    font: 18px Helvetica;
+    padding: 5px;
+    font-weight: bold;
+    text-decoration: none;
 }
 body{
     background: #d2d2c1 url("../Assets/fundo.png");
@@ -10,19 +11,24 @@ body{
 #principal{
     width: 900px;
 }
-.boxwhite{
+#menu{
+    background: #c5c5b2;
+    padding: 5px;
+}
+.box{
+    background:#e8e8d9;
+    padding: 10px;
 
-background: white;
 }
 .text{
-    margin: 10px ;
+  margin: 10px;
+  color: rgb(230, 205, 173);
+    font: 23px Arial;
 }
-.descrição{
-    font: 200 25px "Arial"; ;
-    color: grey;
-   
-}
-.rodape{
-    
+
+#rodape{
     font: 900 15px 'Tahoma'; ;
+}
+.centralizar{
+    text-align: center;
 }
